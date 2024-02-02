@@ -1,5 +1,5 @@
 import { useState, useRef } from 'react'
-import Auth from './components/auth'
+import Auth from './components/Auth'
 import Chat from './components/Chat'
 import Cookies from 'universal-cookie'
 
