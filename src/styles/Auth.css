@@ -1,0 +1,36 @@
+.emailpass {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    color: lightgray;
+}
+
+.auth-container {
+
+    padding: 30px;
+    border: 1px solid #e0e0e0;
+    width: 50%;
+}
+
+.auth {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.auth button {
+    background: none;
+    border: 1px solid #e0e0e0;
+    padding: 10px;
+}
+
+.auth button:hover {
+    background: #f0f0f0;
+}
+
+/* .auth button:focus {
+    background: #e0e0e0;
+    outline: none;
+} */
